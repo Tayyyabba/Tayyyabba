@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tayyyabba" alt="tayyyabba" /></a> </p>
 
-- 🔭 I’m currently working on **ChatBot**
+
 
 - 🌱 I’m currently learning **framework, React**
 
