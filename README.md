@@ -1,16 +1,20 @@
-## Hi there 👋
+##👋 Hi, I'm Tayyaba Shamim!
 
-<!--
-**Tayyyabba/Tayyyabba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full-Stack Developer | IT Professional
+🎓 BS IT | University of Sindh
 
-Here are some ideas to get you started:
+I'm a passionate full-stack developer with expertise in building dynamic and responsive web applications. I specialize in frontend and backend development, creating seamless user experiences with modern technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Skills & Technologies:
+Frontend: HTML, CSS, JavaScript, 
+Backend: PHP, 
+Database: MySQL, MongoDB
+Other: Git/GitHub, REST APIs
+🔥 What I Do:
+✔ Develop full-stack web applications
+✔ Design responsive & user-friendly UI/UX
+✔ Optimize performance & security
+✔ Build custom solutions for businesses
+
+📌 Let's Connect!
+I'm always open to collaborations and exciting projects. Feel free to explore my repositories and reach out!
